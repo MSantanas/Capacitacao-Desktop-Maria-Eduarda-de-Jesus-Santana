@@ -17,7 +17,7 @@ Atualmente atuo como **Gerente de Recursos Humanos na Asimov Jr.**, enquanto rea
 **Universidade Federal de Itajubá (UNIFEI)**
 
 - **Bacharelado em Sistemas de Informação** (2025.1 – 2029.1)
-- **Disciplina de Maratona de Programação** (2026.2): Desenvolvimento de raciocínio lógico avançado, resolução de problemas sob pressão e exames baseados nos moldes da Maratona SBC (Profs. Olmes Carvalho e Edimilson).
+- **Disciplina de Maratona de Programação** (2026.2): Desenvolvimento de raciocínio lógico avançado, resolução de problemas sob pressão e exames baseados nos moldes da Maratona SBC (Profs. Luiz Olmes Carvalho e Edmilson Marmo Moreira).
 
 **Cursos Complementares**
 
@@ -35,16 +35,16 @@ Atualmente atuo como **Gerente de Recursos Humanos na Asimov Jr.**, enquanto rea
 - Planejamento e coordenação logística e de infraestrutura de eventos internos.
 - Transição interna para a equipe técnica de Desenvolvimento Desktop.
 
-**Diretório Acadêmico de Computação — Diretora de Marketing (2026.2) & Assessora (2026.1)**
+**Diretório Acadêmico de Computação (DACOMP) — Diretora de Marketing (2026.2) & Assessora (2026.1)**
 
-- Gestão estratégica da comunicação e identidade visual do DA para a comunidade estudantil da UNIFEI.
+- Gestão estratégica da comunicação e identidade visual do DACOMP para a comunidade estudantil da UNIFEI.
 - Planejamento e divulgação institucional do Processo Eleitoral e eventos acadêmicos.
 - Criação de campanhas segmentadas para diferentes públicos estudantis.
 
 **Monitoria Acadêmica & Docência — UNIFEI**
 
-- **Monitora de Fundamentos de Programação** (2025.2 e 2026.1): Apoio técnico, tiragem de dúvidas e revisão de lógica de programação com os profs. Alexandre Carlos Ramos Brandão e Phyllipe Francisco Lima.
-- **Professora Voluntária de Matemática Básica**: Aulas de nivelamento para ingressantes de Engenharia de Bioprocessos em parceria com o coordenador do curso, Prof. Guilherme Youssef Rodriguez, adaptando a didática ao perfil de cada turma.
+- **Monitora de Fundamentos de Programação** (2025.2 e 2026.1): Apoio técnico, tiragem de dúvidas e revisão de lógica de programação com os profs. Alexandre Carlos Brandão Ramos e Phyllipe de Souza Lima Francisco.
+- **Professora Voluntária de Matemática Básica**: Aulas de nivelamento para ingressantes de Engenharia de Bioprocessos em parceria com o coordenador do curso, Prof. Guilherme Youssef Rodriguez, adaptando a didática ao perfil da turma.
 
 ---
 
@@ -90,18 +90,18 @@ Atualmente atuo como **Gerente de Recursos Humanos na Asimov Jr.**, enquanto rea
 
 Este repositório reúne minhas entregas práticas desenvolvidas durante a capacitação de Desktop, conduzida pelo gerente **Guilherme Carneiro Sampaio**.
 
-| Semana | Tema         | Status          | Pasta                             |
-| ------ | ------------ | --------------- | --------------------------------- |
-| **01** | Git & GitHub | 🚧 Em andamento | [Acessar](./semana-01-git)        |
-| **02** | HTML & CSS   | ⏳ Em breve     | [Acessar](./semana-02-html-css)   |
-| **03** | TypeScript   | ⏳ Em breve     | [Acessar](./semana-03-typescript) |
-| **04** | Angular      | ⏳ Em breve     | [Acessar](./semana-04-angular)    |
+| Semana | Tema         | Status       | Pasta                             |
+| ------ | ------------ | ------------ | --------------------------------- |
+| **01** | Git & GitHub | Em andamento | [Acessar](./semana-01-git)        |
+| **02** | HTML & CSS   | Em breve     | [Acessar](./semana-02-html-css)   |
+| **03** | TypeScript   | Em breve     | [Acessar](./semana-03-typescript) |
+| **04** | Angular      | Em breve     | [Acessar](./semana-04-angular)    |
 
 ---
 
 ## Contato
 
 - **GitHub:** [github.com/MSantanas](https://github.com/MSantanas)
-- **LinkedIn:** https://www.linkedin.com/in/maria-eduarda-de-jesus-santana-028681377/(#)
+- **LinkedIn:** https://www.linkedin.com/in/maria-eduarda-de-jesus-santana-028681377/
 - **E-mail:** mariaesantana2006@gmail.com
 - **Instagram:** @mm.snntana\_
