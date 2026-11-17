@@ -38,5 +38,6 @@ Este README tem como principal objetivo resumir e compilar os aprendizados e ent
 
 A primeira semana foi fundamental para perder o medo do terminal e entender na prática como o versionamento funciona em equipe, dado que eu tenho vontade de aprender a usar o Git e GitHub desde que entrei na faculdade, mas não cheguei a mexer tão individualmente e intensamente como esta semana. Compreender o fluxo de branches, Pull Requests e resolução de conflitos traz muito mais segurança para lidar com as próximas demandas.
 
-# 5. Conflito de Meeerge
-Versão alternativa para dar conflito de merge com a outra branch.
+## 5. Conflito de Merge
+**Como provoquei:** A mesma seção final do arquivo foi editada em diferentes branches.
+**Como consertei:** Mudei de branch, vi as marcações de conflito e removi manualmente, escrevendo este trecho.
