@@ -40,4 +40,7 @@ A primeira semana foi fundamental para perder o medo do terminal e entender na p
 
 ## 5. Conflito de Merge
 **Como provoquei:** A mesma seção final do arquivo foi editada em diferentes branches.
+
 **Como consertei:** Mudei de branch, vi as marcações de conflito e removi manualmente, escrevendo este trecho.
+
+[Print do conflito](./conflito_merge.jpeg)
